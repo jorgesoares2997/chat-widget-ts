@@ -138,7 +138,12 @@ Edite as classes Tailwind em ChatWidget.tsx ou ajuste o tailwind.config.js.
 
 ### Ícone:
 
-Substitua a URL da imagem em <img src="https://port-bu.s3.eu-north-1.amazonaws.com/fenix-chat.png" />
+Substitua a URL da imagem em
+
+```html
+<img src="https://port-bu.s3.eu-north-1.amazonaws.com/fenix-chat.png" />
+```
+
 por outra.
 
 ## Posição:
